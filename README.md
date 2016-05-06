@@ -1,7 +1,7 @@
 # Ac-Monitor
 This application is a tool to monitor and assign tasks within a work place.
 
-SERVER PERSPECTIVE:
+<h3>SERVER PERSPECTIVE:</h3>
 
 When you first launch the server application the first thing you will see is this window.
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/130714741@N08/26250259573/in/dateposted-public/" title="Screen Shot 2016-05-06 at 11.36.42 AM"><img src="https://farm8.staticflickr.com/7755/26250259573_500c42177e.jpg" width="383" height="500" alt="Screen Shot 2016-05-06 at 11.36.42 AM"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -27,7 +27,7 @@ That task can then be assigned to any of the employees logged in.
 As an employee completes tasks they will checkoff those tasks and be moved to that employee's completed task list.
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/130714741@N08/26250270323/in/dateposted-public/" title="Screen Shot 2016-05-06 at 11.44.51 AM"><img src="https://farm8.staticflickr.com/7231/26250270323_167b75c600.jpg" width="385" height="500" alt="Screen Shot 2016-05-06 at 11.44.51 AM"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-CLIENT PERSPECTIVE:
+<h3>CLIENT PERSPECTIVE:</h3>
 
 When you first launch the client application the first thing you will see is this window.
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/130714741@N08/26787273741/in/album-72157667400993310/" title="Screen Shot 2016-05-06 at 12.23.50 PM"><img src="https://farm8.staticflickr.com/7633/26787273741_150fffac13.jpg" width="500" height="162" alt="Screen Shot 2016-05-06 at 12.23.50 PM"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
